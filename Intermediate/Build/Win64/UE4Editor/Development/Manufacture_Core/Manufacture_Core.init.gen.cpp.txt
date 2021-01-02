@@ -1,0 +1,3 @@
+F:\THProject\Plugins\Manufacture_Core\Intermediate\Build\Win64\UE4Editor\Development\Manufacture_Core\Definitions.Manufacture_Core.h
+E:\UnrealGames\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UnrealGames\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
